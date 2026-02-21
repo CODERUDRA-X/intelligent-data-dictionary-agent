@@ -2,6 +2,7 @@
 ### Intelligent Data Dictionary Agent  
 
 AI-powered Data Governance & Metadata Intelligence Engine.
+![Project Banner](https://github.com/CODERUDRA-X/intelligent-data-dictionary-agent/blob/main/Screenshot%202026-02-21%20115012.png?raw=true)
 
 ---
 

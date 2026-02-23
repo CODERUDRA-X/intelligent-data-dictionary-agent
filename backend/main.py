@@ -8,7 +8,7 @@ from database import engine
 
 # --- STEP 1: Gemini API Configuration ---
 # Teri nayi API Key ekdum sahi hai
-genai.configure(api_key="AIzaSyAgkOiCbN0fwlnXGWdToB5KcfxBu--44Ig") 
+genai.configure(api_key="GOOGLE API KEY") 
 
 # --- THE FIX ---
 # 'models/' word hata diya hai. Ab ye double nahi hoga.

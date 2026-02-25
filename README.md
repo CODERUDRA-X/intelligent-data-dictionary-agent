@@ -43,7 +43,7 @@ Modern organizations store data across complex relational databases with poorly 
        ↙                ↘
     PostgreSQL        Gemini API
 
-    - PostgreSQL provides relational schema metadata.
+- PostgreSQL provides relational schema metadata.
 - FastAPI processes schema extraction and scoring logic.
 - Gemini API enriches metadata with business-friendly explanations.
 - React frontend visualizes health metrics and enables chat-based querying.

@@ -118,20 +118,21 @@ http://localhost:5173
 
 ### 📌 Example API Endpoints
 
-GET / → Service health check
-GET /get-schema → Extract database schema
-GET /health-report → Return computed health scores
-POST /chat → Query metadata using natural language
+- GET / → Service health check
+- GET /get-schema → Extract database schema
+- GET /health-report → Return computed health scores
+- POST /chat → Query metadata using natural language
 
 ### 🎯 Hackathon MVP Scope
 
 This implementation focuses on:
-Relational schema analysis
-Transparent scoring logic
-AI-generated metadata summaries
-Conversational interface
-Clean modular system architecture
-Advanced enterprise extensions such as lineage visualization and incremental schema monitoring are part of future scope.
+- Relational schema analysis
+- Transparent scoring logic
+- AI-generated metadata summaries
+- Conversational interface
+- Clean modular system architecture
+- Advanced enterprise extensions such as lineage
+- visualization and incremental schema monitoring are part of future scope.
 
 ### 🔐 Security Notes
 API keys are stored in .env

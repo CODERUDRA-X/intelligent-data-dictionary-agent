@@ -119,8 +119,11 @@ http://localhost:5173
 ### 📌 Example API Endpoints
 
 - GET / → Service health check
+
 - GET /get-schema → Extract database schema
+
 - GET /health-report → Return computed health scores
+
 - POST /chat → Query metadata using natural language
 
 ### 🎯 Hackathon MVP Scope

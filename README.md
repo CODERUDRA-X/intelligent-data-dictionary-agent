@@ -101,7 +101,8 @@ pip install -r requirements.txt
 uvicorn app.main:app --reload
 
 Backend will run at:
-http://127.0.0.1:8000
+http://127.0.0.1:8000```
+
 
 🔹 Frontend Setup
 

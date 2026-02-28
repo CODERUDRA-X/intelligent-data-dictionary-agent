@@ -116,13 +116,15 @@ npm run dev
 Frontend runs at:
 http://localhost:5173
 
-📌 Example API Endpoints
+### 📌 Example API Endpoints
+
 GET / → Service health check
 GET /get-schema → Extract database schema
 GET /health-report → Return computed health scores
 POST /chat → Query metadata using natural language
 
-🎯 Hackathon MVP Scope
+### 🎯 Hackathon MVP Scope
+
 This implementation focuses on:
 Relational schema analysis
 Transparent scoring logic
@@ -131,10 +133,10 @@ Conversational interface
 Clean modular system architecture
 Advanced enterprise extensions such as lineage visualization and incremental schema monitoring are part of future scope.
 
-🔐 Security Notes
+### 🔐 Security Notes
 API keys are stored in .env
 .env is excluded via .gitignore
 No credentials are committed to repositor
 
-CODERUDRA-X
+### CODERUDRA-X
 Lead Architect

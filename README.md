@@ -104,7 +104,7 @@ Backend will run at:
 http://127.0.0.1:8000```
 
 
-🔹 Frontend Setup
+###🔹 Frontend Setup
 
 Bash
 Copy code

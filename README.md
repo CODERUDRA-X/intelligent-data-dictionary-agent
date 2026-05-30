@@ -143,4 +143,4 @@ API keys are stored in .env
 No credentials are committed to repositor
 
 ### CODERUDRA-X
-Lead Architect
+Lead Architec

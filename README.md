@@ -143,4 +143,8 @@ API keys are stored in .env
 No credentials are committed to repositor
 
 ### CODERUDRA-X
-Lead Architec
+Lead Architect & AI Integration
+
+### Vishal Yadav
+Co-Devloper & Backend
+
